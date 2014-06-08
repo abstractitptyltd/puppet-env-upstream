@@ -4,9 +4,11 @@ forge 'http://forge.puppetlabs.com'
 ## r10k
 mod 'zack/r10k', '1.0.2'
 ## stdlib
-mod 'puppetlabs/stdlib', '4.1.0'
+mod 'puppetlabs/stdlib', '4.2.0'
 ## puppetdb
 mod 'puppetlabs/puppetdb', '3.0.1'
+## dashboard
+mod 'puppetlabs/dashboard', '0.0.4'
 ## apache
 mod 'puppetlabs/apache', '1.0.1'
 ## apt
@@ -38,7 +40,7 @@ mod 'jtopjian/sshkeys', '0.5.0'
 ## puppetdbquery
 mod 'dalen/puppetdbquery', '1.4.0'
 ## python
-mod 'stankevich/python', '1.6.6'
+mod 'stankevich/python', '1.7.5'
 ## puppetboard
 mod 'nibalizer/puppetboard', '2.3.0'
 ## logrotate
@@ -53,14 +55,12 @@ mod 'mhuffnagle/make', '0.0.2'
 mod 'puppetlabs/gcc','0.1.0'
 ## pe_gem
 mod 'puppetlabs/pe_gem','0.0.1'
-## hiera_yamlgpg
-mod 'compete/hiera_yamlgpg', '1.0.0'
 
 ## upstream modules
 ## cpanm
-#mod 'cpanm',
-#  :git => 'https://github.com/torrancew/puppet-cpanm',
-#  :ref => 'master'
+mod 'cpanm',
+  :git => 'https://github.com/PivitPtyLtd/puppet-cpanm',
+  :ref => 'production'
 ## mariadb
 mod 'mariadb',
   :git => 'https://github.com/PivitPtyLtd/puppet-mariadb',
