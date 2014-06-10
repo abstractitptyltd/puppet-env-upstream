@@ -69,10 +69,10 @@ mod 'mariadb',
 # puppet
 mod 'puppet',
     :git => 'https://bitbucket.org/pivitptyltd/puppet-puppet',
-    :ref => 'v1.6.4'
+    :ref => 'development'
 
 # site
 mod 'site',
     :git => 'https://bitbucket.org/pivitptyltd/puppet-site',
-    :ref => 'v1.0.0'
+    :ref => 'v1.3.2'
 
