@@ -66,6 +66,11 @@ mod 'mariadb',
   :git => 'https://github.com/PivitPtyLtd/puppet-mariadb',
   :ref => 'production'
 
+# puppet
+mod 'puppet',
+    :git => 'https://bitbucket.org/pivitptyltd/puppet-puppet',
+    :ref => 'v1.6.4'
+
 # site
 mod 'site',
     :git => 'https://bitbucket.org/pivitptyltd/puppet-site',
