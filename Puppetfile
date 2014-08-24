@@ -28,7 +28,7 @@ mod 'puppetlabs/git', '0.2.0'
 ## vcsrepo
 mod 'puppetlabs/vcsrepo', '1.1.0'
 ## xinetd
-mod 'puppetlabs/xinetd', '1.2.1'
+mod 'puppetlabs/xinetd', '1.3.1'
 ## ruby
 mod 'puppetlabs/ruby', '0.2.1'
 ## cloud_provisioner
