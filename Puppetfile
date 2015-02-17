@@ -66,7 +66,7 @@ mod 'rodjek/logrotate', '1.1.1'
 ## php
 mod 'nodes/php', '0.9.0'
 ## make
-#mod 'mhuffnagle/make', '0.0.2'
+mod 'croddy/make', '0.0.5'
 
 ## upstream modules
 ## cpanm
