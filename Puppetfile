@@ -42,7 +42,7 @@ mod 'adrien/filemapper', '1.1.3'
 ## boolean
 mod 'adrien/boolean', '1.0.1'
 ## gcc
-mod 'puppetlabs/gcc','0.2.2'
+mod 'puppetlabs/gcc','0.2.0'
 ## pe_gem
 mod 'puppetlabs/pe_gem','0.1.0'
 ## tftp
