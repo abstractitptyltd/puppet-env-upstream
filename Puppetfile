@@ -2,13 +2,13 @@ forge 'http://forge.puppetlabs.com'
 
 ## forge modules
 ## apache
-mod 'puppetlabs/apache', '1.4.0'
+mod 'puppetlabs/apache', '1.4.1'
 ## apt
 mod 'puppetlabs/apt', '1.8.0'
 ## cloud_provisioner
 #mod 'puppetlabs/cloud_provisioner', '1.1.4'
 ## concat
-mod 'puppetlabs/concat', '1.2.0'
+mod 'puppetlabs/concat', '2.0.1'
 ## dashboard
 mod 'puppetlabs/dashboard', '0.0.4'
 ## firewall
@@ -30,7 +30,7 @@ mod 'puppetlabs/pe_gem','0.1.0'
 ## postgresql
 mod 'puppetlabs/postgresql', '4.3.0'
 ## puppetdb
-mod 'puppetlabs/puppetdb', '4.1.0'
+mod 'puppetlabs/puppetdb', '4.2.1'
 ## ruby
 mod 'puppetlabs/ruby', '0.4.0'
 ## stdlib
