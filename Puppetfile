@@ -28,9 +28,9 @@ mod 'puppetlabs/java', '1.3.0'
 ## pe_gem
 mod 'puppetlabs/pe_gem','0.1.0'
 ## postgresql
-mod 'puppetlabs/postgresql', '4.3.0'
+mod 'puppetlabs/postgresql', '4.6.0'#'4.3.0'
 ## puppetdb
-mod 'puppetlabs/puppetdb', '4.2.1'
+mod 'puppetlabs/puppetdb', '5.0.0'#'4.2.1'
 ## ruby
 mod 'puppetlabs/ruby', '0.4.0'
 ## stdlib
